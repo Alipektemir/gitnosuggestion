@@ -9,7 +9,7 @@ public class Dinosaur {
 		System.out.println("T-REX VS TRICEROTOPS");
 		
 		System.out.println("ENTER YOUR MOVE");
-		
+		// i love dina
 		String[]  moves = {"bite", "punch"};
 		
 		String input = scan.nextLine();
